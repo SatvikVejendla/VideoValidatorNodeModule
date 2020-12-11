@@ -4,7 +4,9 @@ Hello. This module helps detect if a url is a youtube video. This is useful in D
 
 This simple module can be installed using this following command:
 
-``` npm install video-validator ```
+``` 
+npm install video-validator 
+```
 
 Once you install it, the function is
 
