@@ -1,6 +1,6 @@
 {
   "name": "video-validator",
-  "version": "1.1.1",
+  "version": "1.2.7",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/SatvikVejendla/VideoValidatorNodeModule/issues"
   },
-  "homepage": "https://github.com/SatvikVejendla/VideoValidatorNodeModule#readme"
+  "homepage": "https://github.com/SatvikVejendla/VideoValidatorNodeModule#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "http": "0.0.1-security",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2"
+  }
 }
